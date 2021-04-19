@@ -55,3 +55,6 @@ The following items are primary considerations for continued development.
 3. Refactoring the code to DRY (Don't Repeat Yourself) it out while maintaining understandability.
 
 ### Useful resources
+- [A sample implementation](https://rosettacode.org/wiki/Tic-tac-toe#Ruby)
+- [99 Bottles of OOP](https://sandimetz.com/99bottles)
+- [Testing user input](https://stackoverflow.com/questions/53527160/testing-gets-in-rspec-user-input)
